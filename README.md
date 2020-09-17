@@ -22,7 +22,11 @@ https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally#change-local-f
 
 B) or start in the directory with the code a simple web server with the command:
 
+- For Python2
 $ python -m SimpleHTTPServer
+
+- For Python3 (windows)
+> python -m http.server
 
 then you can (even without connection to Internet) open the globe at:
 
